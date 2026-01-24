@@ -4,6 +4,7 @@
 ![Paradigm](https://img.shields.io/badge/Paradigm-POO-blue.svg)
 ![Status](https://img.shields.io/badge/Status-In%20Progress-yellow.svg)
 ![Level](https://img.shields.io/badge/Level-Básico%20→%20Intermediário-green.svg)
+![Course](https://img.shields.io/badge/UFES-Programa%C3%A7%C3%A3o%20II-red.svg)
 
 Este repositório contém a resolução de **exercícios em Java com foco em Programação Orientada a Objetos (POO)**, desenvolvidos com o objetivo de praticar e consolidar os principais conceitos da linguagem e do paradigma orientado a objetos, complementando a disciplina Programação II - UFES
 
